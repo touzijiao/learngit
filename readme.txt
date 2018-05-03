@@ -3,7 +3,4 @@ Git is free software
 Git tracka chaspes of file
 <<<<<<< HEAD
 Creating a new branch is quick ANDsimple (创建一个新分支是快速而高效的)
-=======
-创建一个新的分支
-Creating a new branch is quick ANDsimple (创建一个新分支是快速而高效的)
->>>>>>> feature1
+分支管理
